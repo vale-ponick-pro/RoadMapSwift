@@ -22,9 +22,26 @@
 		58BA087F2EE11C5D00B0BA57 /* RoadMapSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RoadMapSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		58BA099B2EE1A99F00B0BA57 /* Exceptions for "RoadMapSwift" folder in "RoadMapSwift" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Arrays/arrayNotes.swift,
+				Arrays/arrayTasks.swift,
+				createProlectGuide.swift,
+				Functions/functionNotes.swift,
+				Functions/functionTasks.swift,
+			);
+			target = 58BA087E2EE11C5D00B0BA57 /* RoadMapSwift */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		58BA08812EE11C5D00B0BA57 /* RoadMapSwift */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				58BA099B2EE1A99F00B0BA57 /* Exceptions for "RoadMapSwift" folder in "RoadMapSwift" target */,
+			);
 			path = RoadMapSwift;
 			sourceTree = "<group>";
 		};
