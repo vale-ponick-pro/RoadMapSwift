@@ -28,6 +28,7 @@
 			membershipExceptions = (
 				Arrays/arrayNotes.swift,
 				Arrays/arrayTasks.swift,
+				createProject.swift,
 				createProlectGuide.swift,
 				Functions/functionNotes.swift,
 				Functions/functionTasks.swift,
